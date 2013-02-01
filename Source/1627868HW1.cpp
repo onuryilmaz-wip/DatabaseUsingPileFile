@@ -1,7 +1,5 @@
 // Onur Yilmaz
-// 1627868
-// CENG 351 - Programming HW#1
-// December 05, 2011
+
 
 #include <stdlib.h>
 #include <iostream>
